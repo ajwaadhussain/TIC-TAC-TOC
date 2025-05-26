@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to my first project, a Tic Tac Toe game built from scratch. I'm Ajwad Hussain, a passionate developer looking to kick-start my journey in the world of coding.
+Welcome to my first project, a Tic Tac Toe game built from scratch using Python. I'm Ajwad Hussain, a passionate developer looking to kick-start my journey in the world of coding. This project is a result of my dedication and hard work, and I'm excited to share it with the community.
 
 ## Game Description
 
